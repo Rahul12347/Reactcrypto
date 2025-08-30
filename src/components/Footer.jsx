@@ -1,6 +1,6 @@
 import { Box, Stack, Text, VStack } from "@chakra-ui/react";
 
-const avatarSrc = "https://avatars.githubusercontent.com/u/25058652";
+
 
 const Footer = () => {
   return (
